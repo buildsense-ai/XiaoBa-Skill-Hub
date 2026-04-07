@@ -26,5 +26,12 @@
     "category": "科研",
     "recommended": false,
     "repo": "https://github.com/hanyuan-zhu/xiaoba-skill-sc-analysis"
+  },
+  {
+    "name": "officecli",
+    "description": "创建和编辑 Office 文档：Word (.docx)、Excel (.xlsx)、PPT (.pptx)，无需安装 Office，对话即可完成文档操作",
+    "category": "工具",
+    "recommended": false,
+    "repo": "https://github.com/fightheyyy/xiaoba-skill-officeCLI"
   }
 ]
